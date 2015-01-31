@@ -1,0 +1,59 @@
+less moving_around.txt
+cat moving_around.txt | less
+  same
+cat moving_around.txt
+ll
+ls
+history > moving_around.txt
+cd
+history | less
+history
+.
+subl .
+cd ..
+cd Documents/
+cd Pictures/
+la
+cd Music/
+cd Desktop/
+cd De
+pwd
+LS
+  UNIX case sensitive
+cd /home/edward
+ls -x
+ls -c
+man ls
+ls -g
+ls -lh
+ls -h
+ls -rl
+ls -tl
+ls -l
+ls -t
+cd /
+fdsa
+sdaf
+curl -fsSL http://git.io/Ggdljw | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'edpark13@gmail.com'
+git config --global user.name 'Edward'
+git --version
+sudo apt-get install -y git
+echo $EDITOR
+subl ~/.config/fish/config.fish
+sudo apt-get install -y sublime-text-installer
+sudo apt-get check
+fish_update_completions
+curl -fsSL http://git.io/FzAR | ruby
+sudo apt-get install ruby
+curl -fsSL http://git.io/FzAR | ruby1.8
+help
+chsh -s /usr/bin/fish
+sudo apt-get install -y fish git
+sudo apt-get update
+sudo add-apt-repository -y ppa:git-core/ppa
+sudo apt-add-repository -y ppa:webupd8team/sublime-text-3
+sudo apt-add-repository -y ppa:fish-shell/release-2
+curl -fsSL http://git.io/Ak1LNQ | sh
+sudo apt-get install -y curl
