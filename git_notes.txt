@@ -1,0 +1,12 @@
+git ll or get la
+  shows differences between commits
+git branch 'name'
+  creates a new branch with 'name'
+git checkout 'name'
+  make 'name' branch active from master or the branch that was active before
+git touch 'name'
+  make a new file or update timestamp
+git log
+  lists the time, author, and the comments for each commits
+git status
+  sees the status of staging area
