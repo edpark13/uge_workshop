@@ -1,5 +1,7 @@
-git ll or get la
+git la
   shows differences between commits
+git ll
+  shows timestamp between commits, author and which commit each branch is at
 git branch 'name'
   creates a new branch with 'name'
 git checkout 'name'
